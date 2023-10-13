@@ -1,0 +1,123 @@
+
+  .first-page{
+    border-color: black;
+    border-width: 3px; 
+    border-style: solid;
+  
+    
+
+
+
+
+  }
+  .flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .declar{
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .skills{
+    text-align: center;
+    font-size: 18px;
+  }
+
+  table{
+    margin-top: 35px;
+  }
+  tr{
+    height: 67px;
+
+
+  }
+  td{
+    width: 10%; height: 20px;
+  }
+
+  .table-rows{
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+  }
+
+  .table-head{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif ;
+  }
+
+
+
+  .header-cls{
+    text-align: center;
+  }
+  .name-cls{
+    word-spacing: 1px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+
+  }
+  .initial{
+    margin-left: 12px;
+  }
+  .role-cls{
+    font-size: 14px;
+    font-family: Montserrat;
+    font-weight: bold;
+    margin-top: 8px;
+
+  }
+  .address-cls{
+    font-family: Libre Baskerville;
+    font-weight: 500;
+    font-size: 13px;
+  }
+
+  .flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  }
+  .phone, .email{
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 2px;
+  }
+
+  .header1{
+    background-color: rgb(237, 237, 237);
+    text-align: center;
+    text-decoration: underline;
+    height: 40px;
+    margin-top: 29px;
+    letter-spacing: 3px;
+  }
+
+  .profile-cls{
+  padding-top: 4px;
+
+  }
+  .profile-para1{
+    text-align:center;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+  }
+
+  .emp-his{
+    text-align:center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+  }
+
+
+
